@@ -1,8 +1,6 @@
 [![verve's GitHub Banner](./assets/verve.png)](https://github.com/VerveIsGod)
 
-<center>
-  <b>Hello! I'm ✨Verve✨</b>
-</center>
+<center><b>Hello! I'm ✨Verve✨</b></center>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=VerveIsGod&no-frame=true&no-bg=true&theme=juicyfresh)
 
