@@ -1,3 +1,5 @@
+[![verve's GitHub Banner](./verve.png)](https://github.com/VerveIsGod)
+
 ### Hi there 👋
 
 <!--
