@@ -4,7 +4,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=VerveIsGod&no-frame=true&no-bg=true&theme=juicyfresh)
 
-![viewers_count](https://komarev.com/ghpvc/?username=VerveIsGod&color=000000&style=plastic&label=viewers)
+![visitors_count](https://komarev.com/ghpvc/?username=VerveIsGod&color=ff69b4&style=plastic&label=viewers)
 
 <details>
   <summary><b>📫Contact me💬 </b></summary>
@@ -44,9 +44,9 @@
 
 ### ⚡My hobbies😄
 
-![programming](https://img.shields.io/badge/-1.%20Programming-black?style=for-the-badge&logo=null&logoColor=ff69b4&labelColor=000000)
-![gaming](https://img.shields.io/badge/-2.%20Gaming-black?style=for-the-badge&logo=null&logoColor=ff69b4&labelColor=000000)
-![Drawing](https://img.shields.io/badge/-3.%20Drawing-black?style=for-the-badge&logo=null&logoColor=ff69b4&labelColor=000000)
+![programming](https://img.shields.io/badge/-1.%20Programming-ff69b4?style=for-the-badge&logo=null&logoColor=ff69b4&labelColor=000000)
+![gaming](https://img.shields.io/badge/-2.%20Gaming-ff69b4?style=for-the-badge&logo=null&logoColor=ff69b4&labelColor=000000)
+![Drawing](https://img.shields.io/badge/-3.%20Drawing-ff69b4?style=for-the-badge&logo=null&logoColor=ff69b4&labelColor=000000)
 
 
 ### Nice to see you! Bye👋👋👋
