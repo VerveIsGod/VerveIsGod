@@ -1,6 +1,5 @@
 [![verve's GitHub Banner](./assets/verve.png)](https://github.com/VerveIsGod)
 
-<br>
 [![Visits Badge](https://badges.pufler.dev/visits/verve_is_god/VerveIsGod)](https://github.com/VerveIsGod)
 
 <br>
