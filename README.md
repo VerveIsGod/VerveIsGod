@@ -1,6 +1,7 @@
 [![verve's GitHub Banner](./assets/verve.png)](https://github.com/VerveIsGod)
 
-[![Visits Badge](https://badges.pufler.dev/visits/verve_is_god/VerveIsGod)](https://badges.pufler.dev)
+<br>
+[![Visits Badge](https://badges.pufler.dev/visits/verve_is_god/VerveIsGod)](https://github.com/VerveIsGod)
 
 <br>
 <a href="https://t.me/Verve_is_God/"><img src="https://img.shields.io/badge/Telegram-Verve_is_God-blue"></a>
