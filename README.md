@@ -12,11 +12,11 @@
 </p>
 
 <br>
-<a href="https://t.me/Verve_is_God/"><img src="https://img.shields.io/badge/Telegram-Verve_is_God-blue"></a>
+- <a href="https://t.me/Verve_is_God/"><img src="https://img.shields.io/badge/Telegram-Verve_is_God-blue"></a>
 <br>
-<a href="https://t.me/bonbon_chat_bot/"><img src="https://img.shields.io/badge/BonBon-my%20telegram%20bot-ff69b4"></a>
+- <a href="https://t.me/bonbon_chat_bot/"><img src="https://img.shields.io/badge/BonBon-my%20telegram%20bot-ff69b4"></a>
 <br>
-<a href="mailto:verve_is_god@protonmail.com"><img src="https://img.shields.io/badge/E--mail-my%20email-important?style=flat"></a>
+- <a href="mailto:verve_is_god@protonmail.com"><img src="https://img.shields.io/badge/E--mail-my%20email-important?style=flat"></a>
   
 </details>
 
