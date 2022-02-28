@@ -32,7 +32,7 @@
 
 
 <details>
-  <summary><b>My ambitions: </b></summary>
+  <summary><b>🚀My ambitions🗡️ </b></summary>
 <p align="center">
 </p>
 
