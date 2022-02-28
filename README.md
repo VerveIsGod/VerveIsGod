@@ -44,9 +44,9 @@
 
 ### ⚡My hobbies😄
 
-![programming](https://img.shields.io/badge/-1.%Programming-black?style=for-the-badge&logo=null&logoColor=ff69b4&labelColor=000000)
-![gaming](https://img.shields.io/badge/-2.%Gaming-black?style=for-the-badge&logo=null&logoColor=ff69b4&labelColor=000000)
-![Drawing](https://img.shields.io/badge/-3.%Drawing-black?style=for-the-badge&logo=null&logoColor=ff69b4&labelColor=000000)
+![programming](https://img.shields.io/badge/-1.%20Programming-black?style=for-the-badge&logo=null&logoColor=ff69b4&labelColor=000000)
+![gaming](https://img.shields.io/badge/-2.%20Gaming-black?style=for-the-badge&logo=null&logoColor=ff69b4&labelColor=000000)
+![Drawing](https://img.shields.io/badge/-3.%20Drawing-black?style=for-the-badge&logo=null&logoColor=ff69b4&labelColor=000000)
 
 
 ### Nice to see you! Bye👋👋👋
