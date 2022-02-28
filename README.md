@@ -1,6 +1,13 @@
 [![verve's GitHub Banner](./assets/verve.png)](https://github.com/VerveIsGod)
 
-### Hi there 👋
+[![Visits Badge](https://badges.pufler.dev/visits/verve_is_god/VerveIsGod)](https://badges.pufler.dev)
+
+<br>
+<a href="https://t.me/Verve_is_God/"><img src="https://img.shields.io/badge/Telegram-Verve_is_God-blue"></a>
+<br>
+<a href="https://t.me/bonbon_chat_bot/"><img src="https://img.shields.io/badge/BonBon-my%20telegram%20bot-ff69b4"></a>
+<br>
+<a href="mailto:verve_is_god@protonmail.com"><img src="https://img.shields.io/badge/E--mail-my%20email-important?style=flat"></a>
 
 <!--
 **VerveIsGod/VerveIsGod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
