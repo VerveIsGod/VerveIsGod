@@ -1,4 +1,4 @@
-[![verve's GitHub Banner](./verve.png)](https://github.com/VerveIsGod)
+[![verve's GitHub Banner](./assets/verve.png)](https://github.com/VerveIsGod)
 
 ### Hi there 👋
 
