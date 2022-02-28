@@ -1,11 +1,13 @@
 [![verve's GitHub Banner](./assets/verve.png)](https://github.com/VerveIsGod)
 
+### Hello! I'm ✨Verve✨
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=VerveIsGod&no-frame=true&no-bg=true&theme=juicyfresh)
 
 ![viewers_count](https://komarev.com/ghpvc/?username=VerveIsGod&color=000000&style=plastic&label=viewers)
 
 <details>
-  <summary><b>Contact me: </b></summary>
+  <summary><b>📫Contact me💬 </b></summary>
 <p align="center">
 </p>
 
@@ -18,24 +20,33 @@
   
 </details>
 
+<details>
+  <summary><b>👯My projects🔭 </b></summary>
+<p align="center">
+</p>
 
-### My hobbies:
+- 🍩I'm currently the team lead of BonBon TEAM
+- 🤖I'm developer of discord, telegram and amino bots
+
+</details>
+
+
+<details>
+  <summary><b>My ambitions: </b></summary>
+<p align="center">
+</p>
+
+- 🎓I'm really want to learn c++
+- 💼I'm wanna get a good job
+- 🏫Sure I want to finish the university
+
+</details>
+
+### ⚡My hobbies😄
 
 ![programming](https://img.shields.io/badge/-1.Programming-black?style=for-the-badge&logo=null&logoColor=ff69b4&labelColor=000000)
 ![gaming](https://img.shields.io/badge/-2.Gaming-black?style=for-the-badge&logo=null&logoColor=ff69b4&labelColor=000000)
 ![Drawing](https://img.shields.io/badge/-3.Drawing-black?style=for-the-badge&logo=null&logoColor=ff69b4&labelColor=000000)
 
-<!--
-**VerveIsGod/VerveIsGod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Nice to see you! Bye👋👋👋
