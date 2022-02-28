@@ -5,7 +5,7 @@
 ![viewers_count](https://komarev.com/ghpvc/?username=VerveIsGod&color=000000&style=plastic&label=viewers)
 
 <details>
-  <summary><b>Contact me::: </b></summary>
+  <summary><b>Cntact me: </b></summary>
 <p align="center">
 </p>
 
