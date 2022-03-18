@@ -1,8 +1,7 @@
 [![verve's GitHub Banner](./assets/verve.png)](https://github.com/VerveIsGod)
 
 ### Hello! I'm ✨Verve✨
-
-![trophy](https://github-profile-trophy.vercel.app/?username=VerveIsGod&no-frame=true&no-bg=true&theme=juicyfresh)
+![Verve's GitHub stats](https://github-readme-stats.vercel.app/api?username=VerveIsGod&theme=radical&hide_border=true&show_icons=true)
 
 ![visitors_count](https://komarev.com/ghpvc/?username=VerveIsGod&color=ff69b4&style=plastic&label=viewers)
 
